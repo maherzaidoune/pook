@@ -32,5 +32,5 @@ module.exports = {
     "indent": ["error", 2, { "SwitchCase": 1 }],
     "import/no-duplicates": "off",
   },
-  ignorePatterns: ['*.spec.js', 'spec.js', 'src/Utils/', 'docs', 'jest', 'e2e'],
+  ignorePatterns: ['*.spec.js', 'spec.js', 'jest', 'e2e'],
 };
